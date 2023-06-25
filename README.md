@@ -19,3 +19,5 @@ Setelah melakukan clone repository, lakukan perintah berikut
     $ --option=1    Nomor 1 (satu) akan mengenerate nama laki-laki
     $ --option=2    Nomor 2 (Dua) akan mengenerate nama perempuan
 
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/RNando)
