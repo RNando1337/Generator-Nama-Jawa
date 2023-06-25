@@ -2,7 +2,7 @@
 Generator nama jawa merupakan tool yang dibuat untuk mengenerate secara otomatis nama-nama jawa beserta dengan artinya. Jika kamu ingin mudah untuk menamai anak dengan nama yang jawa banget saya merekomendasikan tool yang saya buat ini untuk kalian gunakan.
 
 # Screenshoot
-[![asciicast](https://asciinema.org/a/lAUJIs1hvWErMWTj7shXDXt0G.svg)](https://asciinema.org/a/lAUJIs1hvWErMWTj7shXDXt0G)
+![asciicast](https://raw.githubusercontent.com/RNando1337/Generator-Nama-Jawa/main/demo.gif)](https://asciinema.org/a/lAUJIs1hvWErMWTj7shXDXt0G)
 
 # Installation
 Kamu dapat mendownload generator ini dengan melakukan clone repository ini :
@@ -13,10 +13,9 @@ Setelah melakukan clone repository ini lakukan perintah berikut
 
     pip install -r requirements.txt
 
-# How to Run
-Program dapat dijalankan dengan command seperti dibawah ini
+# Options
+    Penggunaan : python generator_nama_jawa.py --option=[nomor opsi]
 
-    python generator_nama_jawa --option=1
-
-
+    $ --option=1    Nomor 1 (satu) akan mengenerate nama laki-laki
+    $ --option=2    Nomor 2 (Dua) akan mengenerate nama perempuan
 
