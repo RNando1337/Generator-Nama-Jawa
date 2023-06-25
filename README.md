@@ -9,7 +9,7 @@ Kamu dapat mendownload generator ini dengan melakukan clone repository ini :
 
     git clone https://github.com/RNando1337/Generator-Nama-Jawa.git
 
-Setelah melakukan clone repository ini lakukan perintah berikut
+Setelah melakukan clone repository, lakukan perintah berikut
 
     pip install -r requirements.txt
 
