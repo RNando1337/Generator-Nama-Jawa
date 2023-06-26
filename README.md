@@ -13,7 +13,7 @@ Setelah melakukan clone repository, lakukan perintah berikut
 
     pip install -r requirements.txt
 
-# Options
+# Usage
     Penggunaan : python generator_nama_jawa.py --option=[nomor opsi]
 
     $ --option=1    Nomor 1 (satu) akan mengenerate nama laki-laki
